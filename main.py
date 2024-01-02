@@ -75,5 +75,7 @@ def exchange():
         if left[i] != 0:
             print(resources[i], left[i])
 
+#call main
+
 if __name__ == "__main__":
     exchange()
